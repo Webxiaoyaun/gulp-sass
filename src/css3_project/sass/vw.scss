@@ -1,0 +1,74 @@
+$baseFontSize: 375;
+
+@function px2vw($px) {
+  @return $px / $baseFontSize * 100vw;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-image: radial-gradient(circle at 50% 50%,#182537 10%,#000 90%);
+}
+
+.g-container {
+  position: relative;
+  overflow: hidden;
+  padding-top: px2vw(56);
+  box-sizing: border-box;
+}
+
+h2 {
+  font-size: px2vw(32);
+  color: #fff;
+  line-height: px2vw(40);
+  text-indent: px2vw(48);
+}
+
+p {
+  width: px2vw(300);
+  margin-top: px2vw(8);
+  margin-left: px2vw(48);
+  font-size: px2vw(14);
+  color: hsla(0,0%,100%,.5);
+  line-height: px2vw(24);
+}
+
+.g-bg-example {
+  width: px2vw(300);
+  height: px2vw(209);
+  margin: px2vw(32) auto;
+  background: url(//vmat.gtimg.com/kt/ktweb/pay/imgs/voiceGuide/example-mobile.png) no-repeat 50%;
+  background-size: 100% 100%;
+}
+
+.g-btn-open {
+  opacity: 1;
+  position: relative;
+  width: px2vw(275);
+  height: px2vw(48);
+  margin: px2vw(34) auto;
+  line-height: px2vw(48);
+  box-sizing: border-box;
+  text-align: center;
+  text-indent: px2vw(39);
+  border-radius: px2vw(100);
+  color: #fff;
+  font-size: px2vw(14);
+  background: #eb6b07;
+  transition: opacity .5s;
+
+  &::before {
+    position: absolute;
+    content: "";
+    width: px2vw(20);
+    height: px2vw(18);
+    left: px2vw(34);
+    top: 50%;
+    transform: translateY(-50%);
+    background: url(//vmat.gtimg.com/kt/ktweb/pay/imgs/voiceGuide/logo.png) no-repeat 50%;
+    background-size: px2vw(20) px2vw(18);
+  }
+}

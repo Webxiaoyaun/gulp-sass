@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6b76740-63c8-458c-82fe-29b9a1102484" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="vw.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/css3_project/vw.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
+        <option value="Less File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btncont</find>
+      <find>mainCenter</find>
+      <find>textCont</find>
+      <find>list</find>
+      <find>a_bg1</find>
+      <find>itemNumber</find>
+      <find>red</find>
+      <find>toggleIcon</find>
+      <find>rightBtn</find>
+      <find>lisy</find>
+      <find>tabTitle</find>
+      <find>jd_skyDrive</find>
+      <find>selectList</find>
+      <find>click</find>
+      <find>ui-table</find>
+      <find>listName</find>
+      <find>select</find>
+      <find>cont</find>
+      <find>fileName</find>
+      <find>imgSrc</find>
+      <find>tabCont</find>
+      <find>m-style</find>
+      <find>optionList</find>
+      <find>allState</find>
+      <find>listData</find>
+      <find>selectCont</find>
+      <find>jd_financePlatform</find>
+      <find>btnCont</find>
+      <find>search</find>
+      <find>customerService_project</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>bePromoted</replace>
+      <replace>JD_patent</replace>
+      <replace>/@size</replace>
+      <replace>listnav</replace>
+      <replace>#thelist</replace>
+      <replace>allList</replace>
+      <replace>mass_project</replace>
+      <replace>50%</replace>
+      <replace>jd_invoice</replace>
+      <replace>bill-project</replace>
+      <replace>index_video</replace>
+      <replace>video_h5</replace>
+      <replace>dataVisualization</replace>
+      <replace>@font</replace>
+      <replace>jd_skyDrive</replace>
+      <replace>jd_financePlatform</replace>
+      <replace>customerService_project</replace>
+      <replace>css3_project</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/userData.html" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/memberManage.html" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/js/personaiInfo.js" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/personaiInfo.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/personaiInfo.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/login.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/login.html" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/js/login.js" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/retrievePassword.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/retrievePassword.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/changePassword.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/changePassword.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/selectMember.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/selectMember.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/applyInvoice.html" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/js/reconciliation.js" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/reconciliation.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/reconciliation.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/InvoiceDetails.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/InvoiceDetails.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/applyInvoice.less" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/payment.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/invoiceAdministration.less" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/js/invoiceAdministration.js" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/invoiceAdministration.html" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/js/payment.js" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/payment.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/payment.less" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/details.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/details.less" />
+        <option value="$PROJECT_DIR$/build/jd_financePlatform/js/applyInvoice.js" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/vh.html" />
+        <option value="$PROJECT_DIR$/src/jd_financePlatform/less/vh.less" />
+        <option value="$PROJECT_DIR$/src/customerService_project/less/indexCont.less" />
+        <option value="$PROJECT_DIR$/build/customerService_project/css/pagination.css" />
+        <option value="$PROJECT_DIR$/src/customerService_project/indexCont.html" />
+        <option value="$PROJECT_DIR$/build/customerService_project/js/ImportCont.js" />
+        <option value="$PROJECT_DIR$/build/customerService_project/js/customerService.js" />
+        <option value="$PROJECT_DIR$/src/customerService_project/less/customerService.less" />
+        <option value="$PROJECT_DIR$/src/customerService_project/customerService.html" />
+        <option value="$PROJECT_DIR$/src/customerService_project/ImportCont.html" />
+        <option value="$PROJECT_DIR$/src/customerService_project/less/ImportCont.less" />
+        <option value="$PROJECT_DIR$/src/customerService_project/screenIndex.html" />
+        <option value="$PROJECT_DIR$/src/customerService_project/less/screenIndex.less" />
+        <option value="$PROJECT_DIR$/build/customerService_project/opinion.html" />
+        <option value="$PROJECT_DIR$/src/customerService_project/opinion.html" />
+        <option value="$PROJECT_DIR$/src/customerService_project/less/opinion.less" />
+        <option value="$PROJECT_DIR$/build/customerService_project/js/option.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/css3_project/vw.html" />
+        <option value="$PROJECT_DIR$/src/css3_project/sass/vw.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1633" />
+    <option name="height" value="953" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css3_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css3_project" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="css3_project" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="vw.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css3_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gulp-sass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gulp-sass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css3_project" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/jd_financePlatform/less" />
+      <recent name="$PROJECT_DIR$/build/video_h5/video" />
+      <recent name="$PROJECT_DIR$/src/bill-project" />
+      <recent name="$PROJECT_DIR$/build/mass_project/js" />
+      <recent name="$PROJECT_DIR$/build/jd_invoice/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/customerService_project/images" />
+      <recent name="$PROJECT_DIR$/src/customerService_project/less" />
+      <recent name="$PROJECT_DIR$/src/customerService_project" />
+      <recent name="$PROJECT_DIR$/build/customerService_project/css" />
+      <recent name="$PROJECT_DIR$/build/customerService_project/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.settlementSheet.html">
+    <configuration name="settlementSheet.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gulp-sass/src/jd_invoice/settlementSheet.html" />
+    <configuration name="trackingProcess.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gulp-sass/src/jd_process/trackingProcess.html" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.trackingProcess.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.settlementSheet.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.settlementSheet.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.trackingProcess.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6b76740-63c8-458c-82fe-29b9a1102484" name="Default" comment="" />
+      <created>1536560671288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536560671288</updated>
+      <workItem from="1536560673730" duration="13862000" />
+      <workItem from="1536576769393" duration="637000" />
+      <workItem from="1536631428830" duration="390000" />
+      <workItem from="1536633896099" duration="4572000" />
+      <workItem from="1536650637450" duration="2541000" />
+      <workItem from="1536659001517" duration="955000" />
+      <workItem from="1536660767846" duration="873000" />
+      <workItem from="1536662010128" duration="294000" />
+      <workItem from="1536723047125" duration="371000" />
+      <workItem from="1536731145781" duration="4234000" />
+      <workItem from="1536736681653" duration="1289000" />
+      <workItem from="1536739162866" duration="4627000" />
+      <workItem from="1536746131575" duration="627000" />
+      <workItem from="1536747435253" duration="2149000" />
+      <workItem from="1536804973316" duration="2290000" />
+      <workItem from="1536808350743" duration="1717000" />
+      <workItem from="1536828151181" duration="597000" />
+      <workItem from="1536829439123" duration="1053000" />
+      <workItem from="1536830683635" duration="2394000" />
+      <workItem from="1536901956558" duration="4205000" />
+      <workItem from="1536912297592" duration="737000" />
+      <workItem from="1536914936553" duration="1221000" />
+      <workItem from="1536916543255" duration="251000" />
+      <workItem from="1536917477791" duration="494000" />
+      <workItem from="1536918145145" duration="641000" />
+      <workItem from="1536920956292" duration="375000" />
+      <workItem from="1537148111863" duration="900000" />
+      <workItem from="1537149424578" duration="2015000" />
+      <workItem from="1537151519581" duration="8918000" />
+      <workItem from="1537179215914" duration="2479000" />
+      <workItem from="1537235213405" duration="2133000" />
+      <workItem from="1537237554573" duration="7947000" />
+      <workItem from="1537250117116" duration="13616000" />
+      <workItem from="1537264592207" duration="3339000" />
+      <workItem from="1537322075818" duration="524000" />
+      <workItem from="1537322966296" duration="329000" />
+      <workItem from="1537323843880" duration="295000" />
+      <workItem from="1537325638531" duration="3046000" />
+      <workItem from="1537337204230" duration="1164000" />
+      <workItem from="1537338782098" duration="1023000" />
+      <workItem from="1537340500568" duration="215000" />
+      <workItem from="1537341422701" duration="596000" />
+      <workItem from="1537342607390" duration="53000" />
+      <workItem from="1537343583307" duration="896000" />
+      <workItem from="1537406800741" duration="1614000" />
+      <workItem from="1537410467278" duration="3622000" />
+      <workItem from="1537432359512" duration="955000" />
+      <workItem from="1537435934638" duration="3673000" />
+      <workItem from="1537494734763" duration="122000" />
+      <workItem from="1537496511071" duration="45000" />
+      <workItem from="1537496558637" duration="1106000" />
+      <workItem from="1537516214368" duration="213000" />
+      <workItem from="1537517922360" duration="138000" />
+      <workItem from="1537518472800" duration="139000" />
+      <workItem from="1537839092789" duration="15130000" />
+      <workItem from="1537860790418" duration="9464000" />
+      <workItem from="1537924971222" duration="198000" />
+      <workItem from="1537928955575" duration="38000" />
+      <workItem from="1537928995648" duration="9350000" />
+      <workItem from="1538102741079" duration="2844000" />
+      <workItem from="1538962815238" duration="10567000" />
+      <workItem from="1538980417391" duration="16587000" />
+      <workItem from="1539064572953" duration="8512000" />
+      <workItem from="1539136876268" duration="29229000" />
+      <workItem from="1539242882505" duration="950000" />
+      <workItem from="1539248104409" duration="270000" />
+      <workItem from="1539308516327" duration="2318000" />
+      <workItem from="1539567732115" duration="4304000" />
+      <workItem from="1539573051286" duration="9070000" />
+      <workItem from="1539588381638" duration="15074000" />
+      <workItem from="1539677457697" duration="720000" />
+      <workItem from="1539678219007" duration="1228000" />
+      <workItem from="1539680341371" duration="1425000" />
+      <workItem from="1539736316347" duration="4895000" />
+      <workItem from="1539751910327" duration="2168000" />
+      <workItem from="1539770246657" duration="1994000" />
+      <workItem from="1539774727775" duration="11490000" />
+      <workItem from="1540886113802" duration="4227000" />
+      <workItem from="1541058397384" duration="3444000" />
+      <workItem from="1541123801348" duration="10176000" />
+      <workItem from="1541382482828" duration="1908000" />
+      <workItem from="1541385245666" duration="16077000" />
+      <workItem from="1541559474614" duration="65000" />
+      <workItem from="1541559561299" duration="3317000" />
+      <workItem from="1541986556260" duration="1080000" />
+      <workItem from="1541990690713" duration="849000" />
+      <workItem from="1542090944172" duration="153000" />
+      <workItem from="1542092203123" duration="21000" />
+      <workItem from="1542092234227" duration="183000" />
+      <workItem from="1542092646562" duration="111000" />
+      <workItem from="1542093410229" duration="13815000" />
+      <workItem from="1542177776366" duration="472000" />
+      <workItem from="1542179236959" duration="7591000" />
+      <workItem from="1542246648489" duration="30000" />
+      <workItem from="1542246802374" duration="437000" />
+      <workItem from="1542247979117" duration="6474000" />
+      <workItem from="1542265506411" duration="24458000" />
+      <workItem from="1542590902772" duration="3660000" />
+      <workItem from="1542606238248" duration="17894000" />
+      <workItem from="1542682874446" duration="3109000" />
+      <workItem from="1542696764075" duration="3880000" />
+      <workItem from="1542702236763" duration="865000" />
+      <workItem from="1542764837512" duration="15000" />
+      <workItem from="1542767429592" duration="103000" />
+      <workItem from="1542767596199" duration="1265000" />
+      <workItem from="1542769226239" duration="21393000" />
+      <workItem from="1542850779484" duration="7190000" />
+      <workItem from="1542858604002" duration="112000" />
+      <workItem from="1542858889605" duration="3044000" />
+      <workItem from="1542871110381" duration="26699000" />
+      <workItem from="1543190440458" duration="970000" />
+      <workItem from="1543197136313" duration="1659000" />
+      <workItem from="1543201065570" duration="23128000" />
+      <workItem from="1543282728396" duration="4216000" />
+      <workItem from="1543290006525" duration="1589000" />
+      <workItem from="1543299195906" duration="3147000" />
+      <workItem from="1543368789284" duration="423000" />
+      <workItem from="1543389577429" duration="13862000" />
+      <workItem from="1543406925887" duration="630000" />
+      <workItem from="1543407566349" duration="17416000" />
+      <workItem from="1543570487194" duration="1334000" />
+      <workItem from="1543720456560" duration="96000" />
+      <workItem from="1543720557070" duration="8000" />
+      <workItem from="1543802829395" duration="105000" />
+      <workItem from="1543806207361" duration="3676000" />
+      <workItem from="1543917612610" duration="5331000" />
+      <workItem from="1543978586409" duration="1563000" />
+      <workItem from="1544332158817" duration="515000" />
+      <workItem from="1544491455926" duration="6254000" />
+      <workItem from="1544601097739" duration="2409000" />
+      <workItem from="1544664297924" duration="32000" />
+      <workItem from="1544668120500" duration="208000" />
+      <workItem from="1544669132696" duration="12569000" />
+      <workItem from="1544698042038" duration="1083000" />
+      <workItem from="1544766233427" duration="1688000" />
+      <workItem from="1545120008145" duration="332000" />
+      <workItem from="1545120594954" duration="3446000" />
+      <workItem from="1545359213335" duration="707000" />
+      <workItem from="1545381098042" duration="882000" />
+      <workItem from="1545621961825" duration="92000" />
+      <workItem from="1545793154526" duration="455000" />
+      <workItem from="1546503241138" duration="597000" />
+      <workItem from="1546845969181" duration="1022000" />
+      <workItem from="1547430634643" duration="12095000" />
+      <workItem from="1547517882019" duration="861000" />
+      <workItem from="1547539301174" duration="236000" />
+      <workItem from="1547602968133" duration="101000" />
+      <workItem from="1547605439206" duration="2103000" />
+      <workItem from="1547629427815" duration="1752000" />
+      <workItem from="1547692678292" duration="424000" />
+      <workItem from="1548313340537" duration="37000" />
+      <workItem from="1548313659323" duration="52000" />
+      <workItem from="1548314090943" duration="16000" />
+      <workItem from="1549934760926" duration="39304000" />
+      <workItem from="1550122174642" duration="2318000" />
+      <workItem from="1550455107384" duration="223000" />
+      <workItem from="1550456675143" duration="86000" />
+      <workItem from="1550495880225" duration="40000" />
+      <workItem from="1550545142609" duration="826000" />
+      <workItem from="1551259005563" duration="41375000" />
+      <workItem from="1551680808051" duration="3757000" />
+      <workItem from="1551686565477" duration="714000" />
+      <workItem from="1551695837622" duration="1120000" />
+      <workItem from="1551701227673" duration="3000" />
+      <workItem from="1551701439071" duration="10000" />
+      <workItem from="1551751768483" duration="25788000" />
+      <workItem from="1551795331256" duration="26203000" />
+      <workItem from="1551951020176" duration="13725000" />
+      <workItem from="1552032128969" duration="26408000" />
+      <workItem from="1552355540507" duration="474000" />
+      <workItem from="1552371231965" duration="971000" />
+      <workItem from="1552373963957" duration="276000" />
+      <workItem from="1552374357948" duration="1741000" />
+      <workItem from="1552379578411" duration="1831000" />
+      <workItem from="1552461733979" duration="725000" />
+      <workItem from="1552462474245" duration="1000" />
+      <workItem from="1554364440487" duration="874000" />
+      <workItem from="1555064459510" duration="1426000" />
+      <workItem from="1555320042830" duration="3520000" />
+      <workItem from="1555324601976" duration="39000" />
+      <workItem from="1555324857607" duration="15757000" />
+      <workItem from="1555420552960" duration="138000" />
+      <workItem from="1555590300037" duration="2219000" />
+      <workItem from="1555895773425" duration="899000" />
+      <workItem from="1562811441370" duration="4676000" />
+      <workItem from="1577436146780" duration="991000" />
+      <workItem from="1577437257085" duration="74000" />
+      <workItem from="1577669868001" duration="1364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="805470000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1633" height="953" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14250156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1941506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46953404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1578604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19442762" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/jd_financePlatform/invoiceAdministration.html" />
+    <entry file="file://$PROJECT_DIR$/src/jd_financePlatform/applyInvoice.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_financePlatform/js/applyInvoice.js" />
+    <entry file="file://$PROJECT_DIR$/src/bePromoted/leftNav.html" />
+    <entry file="file://$PROJECT_DIR$/src/bePromoted/distribution.html" />
+    <entry file="file://$PROJECT_DIR$/src/dataVisualization/dataIndex.html" />
+    <entry file="file://$PROJECT_DIR$/src/jd_invoice/list.html" />
+    <entry file="file://$PROJECT_DIR$/src/jd_invoice/nvoiceView.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_multiMedia_project/dataIndex.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_multiMedia_project/applyCont.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_multiMedia_project/multiMediaIndex.html" />
+    <entry file="file://$PROJECT_DIR$/src/jd_invoice/settlementList.html" />
+    <entry file="file://$PROJECT_DIR$/src/jd_invoice/settlementSheet.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_skyDrive/props.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_process/userProcess.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_skyDrive/addFolder.html" />
+    <entry file="file://$PROJECT_DIR$/build/dataVisualization/dataIndex.html" />
+    <entry file="file://$PROJECT_DIR$/src/jd_financePlatform/vh.html" />
+    <entry file="file://$PROJECT_DIR$/gulpfile2.js" />
+    <entry file="file://$PROJECT_DIR$/src/jd_financePlatform/less/vh.less" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/build/bill-project/js/bill_list.js" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/js/jquery.pagination.js" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/css/pagination.css" />
+    <entry file="file://$PROJECT_DIR$/build/jd_financePlatform/indexCont.html" />
+    <entry file="file://$PROJECT_DIR$/build/jd_financePlatform/js/indexCont.js" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/indexCont.html" />
+    <entry file="file://$PROJECT_DIR$/src/pulic/base.less" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/js/tmpl.min.js" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/customerService.html" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/indexCont.html" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/less/customerService.less" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/less/ImportCont.less" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/ImportCont.html" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/customerService.html" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/less/indexCont.less" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/images/bg.png" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/css/screenIndex.css" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/less/screenIndex.less" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/screenIndex.html" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/opinion.html" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/js/customerService.js" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/js/ImportCont.js" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/opinion.html" />
+    <entry file="file://$PROJECT_DIR$/src/customerService_project/less/opinion.less" />
+    <entry file="file://$PROJECT_DIR$/build/customerService_project/js/option.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css3_project/vw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css3_project/sass/vw.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="73" column="1" lean-forward="false" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/css3_project/vw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
